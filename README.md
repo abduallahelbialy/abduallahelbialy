@@ -14,11 +14,11 @@ Among the projects I've implemented are data management applications and adminis
 I'm always striving to improve my skills and deepen my understanding of front-end development, and I'm committed to innovation and continuous improvement in every project I undertake. You'll always find me eager to learn and grow, seeking to contribute to technology projects that benefit from my experience and abilities in web development
 
 Skills:
-VUE JS *
-Nuxt* 
-JS*
-HTML*
-CSS*
+* VUE JS
+* Nuxt
+* JS
+* HTML
+* CSS
 
 - 🔭 I’m currently working on this page. 
 
